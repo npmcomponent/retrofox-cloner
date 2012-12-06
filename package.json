@@ -1,0 +1,17 @@
+
+{
+  "name": "cloner",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "version": "0.1.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "cloner/index.js": "index.js"
+    }
+  }
+}
