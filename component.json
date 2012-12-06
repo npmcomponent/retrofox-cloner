@@ -1,9 +1,11 @@
 {
-  "name": "array-clone",
-  "repo": "retrofox/array-clone",
-  "description": "Clone an array",
-  "version": "0.0.1",
-  "keywords": [],
+  "name": "cloner",
+  "repo": "retrofox/cloner",
+  "description": "Clone an array/object",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "twitter": "@retrofox",
+  "version": "0.1.0",
+  "keywords": ["clone", "array", "object"],
   "dependencies": {},
   "development": {},
   "scripts": [
