@@ -3,7 +3,7 @@
  * Clone an array/object
  *
  * @param {Object|Array} o
- * @return {Object|Array} new obj
+ * @return {Object|Array} new array|object
  * @api public
  */
 
